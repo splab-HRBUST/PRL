@@ -1,0 +1,16 @@
+Cython==0.29.21
+librosa==0.8.0
+matplotlib==3.3.1
+numpy==1.18.5不用这个
+#pip install numpy==1.23.5
+phonemizer==2.2.1
+scipy==1.5.2 
+tensorboard==2.3.0
+torch==1.6.0#用下面的
+torchvision==0.7.0#用下面的
+Unidecode==1.1.1
+#pip install protobuf==3.20.3
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+apt-get update
+apt-get install espeak
